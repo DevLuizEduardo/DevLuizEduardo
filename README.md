@@ -15,7 +15,7 @@
 
 ## 📊 GitHub Analytics
 
-![DevLuizEduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLuizEduardo&show_icons=true&theme=radical&count_private=true)
+![DevLuizEduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLuizEduardo&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
  <img height="220px" src="https://s6.gifyu.com/images/giphy-3a396ab22f01d6301.gif">
 
 
