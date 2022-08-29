@@ -8,11 +8,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
-
-
-<div><img height="250px" src="https://s4.gifyu.com/images/web-main.gif"></div>
-
-
 ## 📊 GitHub Analytics
 ![DevLuizEduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLuizEduardo&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
  <img height="220px" src="https://s6.gifyu.com/images/giphy-3a396ab22f01d6301.gif">
