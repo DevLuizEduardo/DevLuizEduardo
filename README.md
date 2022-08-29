@@ -16,7 +16,7 @@
 ## 📊 GitHub Analytics
 <div >
 
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=DevLuizEduardo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=DevLuizEduardo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img align="right"  height="220px" src="https://s6.gifyu.com/images/giphy-3a396ab22f01d6301.gif">
 
 
