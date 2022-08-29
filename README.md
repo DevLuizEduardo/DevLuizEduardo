@@ -14,14 +14,11 @@
 
 
 ## 📊 GitHub Analytics
-
-<div style="display: inline">
   <a href="https://github.com/DevLuizEduardo">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=DevLuizEduardo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img align="right" height="100px" src="https://s6.gifyu.com/images/giphy-3a396ab22f01d6301.gif">
 
 
-</div>
 
 <!--
 **DevLuizEduardo/DevLuizEduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
