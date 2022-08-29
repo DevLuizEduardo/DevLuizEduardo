@@ -10,7 +10,7 @@
 
 
 
-<img  height="250px" src="https://s4.gifyu.com/images/web-main.gif">
+<img align="right" height="250px" src="https://s4.gifyu.com/images/web-main.gif">
 
 
 ## 📊 GitHub Analytics
