@@ -7,8 +7,7 @@
 
 ## 📊 GitHub Analytics
 [![DevLuizEduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLuizEduardo&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/DevLuizEduardo)
- 
-
+<a><img height = "220px" src="https://i.ibb.co/68w2MLD/octocat-1715225566541.png"></a>
 <!--
 **DevLuizEduardo/DevLuizEduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
