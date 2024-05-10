@@ -15,5 +15,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuizEduardo&hideprogress=true&theme=radical)
 
 
+
 ## 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=758ef1&height=120&section=footer"/>
