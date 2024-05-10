@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=758ef1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=40&duration=4000&pause=500&color=1db1fd&center=true&vCenter=true&random=false&width=1000&height=50&lines=Hello%2C+Be+Welcome.;My+name+is+Luiz+Eduardo;This+is+my+Github+repository;Thanks+for+the+visit+!!!%F0%9F%91%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=40&duration=4000&pause=500&color=1db1fd&center=true&vCenter=true&random=false&width=1000&height=50&lines=Hello%2C+Be+Welcome!;My+name+is+Luiz+Eduardo;This+is+my+Github+repository;Thanks+for+the+visit+!!!)](https://git.io/typing-svg)
 #
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leas00009@gmail.com)
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-eduardo-de-ara%C3%BAjo-silva-20ab3924a/)
