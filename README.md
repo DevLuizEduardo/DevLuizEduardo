@@ -7,7 +7,7 @@
 
 ## 📊 GitHub Analytics
 [![DevLuizEduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLuizEduardo&show_icons=true&theme=radical&count_private=true&include_all_commits=true )](https://github.com/DevLuizEduardo)
-<a><img height = "220px" src="https://i.ibb.co/68w2MLD/octocat-1715225566541.png"></a>
+<a><img height = "220px" src="https://i.imghippo.com/files/4SOLG1716315545.png"></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevLuizEduardo&theme=radical&card_width=468)](https://git.io/streak-stats)
 
