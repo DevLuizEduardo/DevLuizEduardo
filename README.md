@@ -21,27 +21,29 @@ Meu objetivo é evoluir um pouco todos os dias, explorando novas tecnologias e t
 
 ## 🧩 **Competências Consolidadas**
 <p align="left">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img height="50" src="https://devicon-website.vercel.app/api/postgresql/original.svg"/>
+  <img title="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  <img title="Spring Boot" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img title="Flutter" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+  <img title="Dart" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+  <img title="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img title="PostgreSQL" height="50" src="https://devicon-website.vercel.app/api/postgresql/original.svg"/>
 </p>
+
 
 ---
 
 ## 📘 **Tecnologias em Desenvolvimento**
 <p align="left">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-  <img height="50" src="https://devicon-website.vercel.app/api/amazonwebservices/original.svg"/>
-  <img height="50" src="https://devicon-website.vercel.app/api/azure/original.svg"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img title="Angular" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+  <img title="AWS" height="50" src="https://devicon-website.vercel.app/api/amazonwebservices/original.svg"/>
+  <img title="Azure" height="50" src="https://devicon-website.vercel.app/api/azure/original.svg"/>
+  <img title="Node.js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img title="Docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img title="Kubernetes" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+  <img title="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img title="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 </p>
+
 
 
 ---
@@ -62,7 +64,10 @@ Meu objetivo é evoluir um pouco todos os dias, explorando novas tecnologias e t
 
 # 🌐 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Email-4A6CF7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devluizeduardo@gmail.com)
+<a href="mailto:devluizeduardo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-4A6CF7?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6C8DF5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-eduardo-me/)
 
 
