@@ -47,8 +47,8 @@ Meu objetivo é evoluir um pouco todos os dias, explorando novas tecnologias e t
 
 
 ---
-
-# 📊 GitHub Analytics
+<details>
+<summary><h1>📊 GitHub Analytics</h1></summary>
 
 
 
@@ -59,8 +59,8 @@ Meu objetivo é evoluir um pouco todos os dias, explorando novas tecnologias e t
 <p align="center">
   <img height="220" src="https://i.postimg.cc/gj2y1Zgq/aa.gif"/>
 </p>
+</details>
 
----
 
 # 🌐 Contact Me
 
