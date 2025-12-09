@@ -50,31 +50,53 @@ Meu objetivo é evoluir um pouco todos os dias, explorando novas tecnologias e t
 <details>
 <summary><h1>📊 GitHub Analytics</h1></summary>
 
+> **Nota:** Os gráficos abaixo mostram a minha atividade registrada no GitHub e servem apenas como um panorama do código que disponibilizo por aqui — não como avaliação de habilidade.
 
+### 🔥 Streak Stats
+<img 
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=DevLuizEduardo&theme=tokyonight&hide_border=true&short_numbers=true"
+  alt="GitHub Streak"
+/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevLuizEduardo&theme=tokyonight&hide_border=false"/>
-</p>
-
-<p align="center">
-  <img height="220" src="https://i.postimg.cc/gj2y1Zgq/aa.gif"/>
-</p>
+### 💻 GitHub Profile Stats
+<img 
+  height="180em" 
+  src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DevLuizEduardo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" 
+  alt="GitHub Stats"
+/>
+<img 
+  height="180em" 
+  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DevLuizEduardo&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" 
+  alt="Top Languages"
+/>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph/?username=DevLuizEduardo&theme=tokyo-night&point=FFFFFF&hide_border=true" 
+  alt="GitHub Activity Graph"
+/>
 </details>
 
+---
 
 # 🌐 Contact Me
 
-<a href="mailto:devluizeduardo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-4A6CF7?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="center">
+  <img height="200" src="https://i.postimg.cc/gj2y1Zgq/aa.gif" alt="Contact animation"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C8DF5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-eduardo-me/)
+<p align="center" style="margin-top: 10px;">
+  <a href="mailto:devluizeduardo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4A6CF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/luiz-eduardo-me/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-6C8DF5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4A6CF7&height=3"/>
 </p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=160&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=4A6CF7&animation=fadeIn&fontAlignY=60"/>
