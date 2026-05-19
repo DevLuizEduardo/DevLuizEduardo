@@ -47,7 +47,6 @@ Meu objetivo é evoluir um pouco todos os dias, explorando novas tecnologias e t
 
 
 ---
-<details>
 <summary><h1>📊 GitHub Analytics</h1></summary>
 
 > **Nota:** Os gráficos abaixo mostram a minha atividade registrada no GitHub e servem apenas como um panorama do código que disponibilizo por aqui — não como avaliação de habilidade.
@@ -73,7 +72,7 @@ Meu objetivo é evoluir um pouco todos os dias, explorando novas tecnologias e t
   src="https://github-readme-activity-graph.vercel.app/graph/?username=DevLuizEduardo&theme=tokyo-night&point=FFFFFF&hide_border=true" 
   alt="GitHub Activity Graph"
 />
-</details>
+
 
 ---
 
